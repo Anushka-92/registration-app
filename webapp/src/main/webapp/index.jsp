@@ -17,6 +17,10 @@
     <input type="text" placeholder="Enter aadhar" name="aadhar" id="aadhar" required>
     <br>
 
+    <label for="Contact"><b>Contact Number</b></label>
+    <input type="text" placeholder="Enter Contact" name="Contact" id="Contact" required>
+    <br>
+
     <label for="Address"><b>Address</b></label>
     <input type="text" placeholder="Enter current Address" name="Address" id="Address" required>
     <br>
